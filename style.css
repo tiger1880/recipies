@@ -1,0 +1,48 @@
+body {
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(238, 224, 161);
+}
+
+h1 {
+
+    text-align: center;
+}
+
+ul li {
+
+    color: green;
+}
+
+#r {
+
+    color: red;
+}
+
+#o {
+    color: orange;
+}
+
+#y {
+    color: yellow;
+}
+
+img {
+
+    height: auto;
+    width: 400px;
+}
+
+.recipie-title {
+
+    color: green;
+}
+
+body.pasta {
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pasta h2 {
+    color: rgb(69, 192, 69);
+}
